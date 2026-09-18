@@ -1,0 +1,12 @@
+C:\Users\Szymon\Desktop\lime\Citrix\bin\Debug\net6.0\Citrix.deps.json
+C:\Users\Szymon\Desktop\lime\Citrix\bin\Debug\net6.0\Citrix.dll
+C:\Users\Szymon\Desktop\lime\Citrix\bin\Debug\net6.0\Citrix.pdb
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\Citrix.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\Citrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\Citrix.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\Citrix.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\Citrix.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\Citrix.dll
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\refint\Citrix.dll
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\Citrix.pdb
+C:\Users\Szymon\Desktop\lime\Citrix\obj\Debug\net6.0\ref\Citrix.dll

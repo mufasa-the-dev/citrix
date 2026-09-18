@@ -1,0 +1,12 @@
+C:\Users\Szymon\Desktop\lime\Lime\bin\Debug\net6.0\Lime.deps.json
+C:\Users\Szymon\Desktop\lime\Lime\bin\Debug\net6.0\Lime.dll
+C:\Users\Szymon\Desktop\lime\Lime\bin\Debug\net6.0\Lime.pdb
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\Lime.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\Lime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\Lime.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\Lime.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\Lime.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\Lime.dll
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\refint\Lime.dll
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\Lime.pdb
+C:\Users\Szymon\Desktop\lime\Lime\obj\Debug\net6.0\ref\Lime.dll
