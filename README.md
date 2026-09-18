@@ -23,7 +23,7 @@ To build and run Citrix Kernel, ensure you have the following installed:
 
 1. **Visual Studio 2022** (with `.NET Desktop Development` workload)
 2. **Cosmos OS User Kit** (latest release)
-3. **VMware Workstation Player** or **VirtualBox** (for kernel emulation and testing)
+3. **VMware Workstation Player** or **QEMU** (for kernel emulation and testing)
 
 ### Installation & Build
 
